@@ -1,5 +1,9 @@
 import Image from 'next/image'
 
+
+// localhost:3000/
+// React App.js
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
