@@ -16,7 +16,7 @@ const PromptCard = (props) => {
   const handleCopy = () => {
     setCopy(post?.prompt);
     navigator.clipboard.writeText(post?.prompt);
-    alert('copied to clipboard');
+    // alert('copied to clipboard');
     setTimeout(() => setCopy(''), 3000);
   };
 
