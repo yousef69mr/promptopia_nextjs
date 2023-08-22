@@ -1,5 +1,7 @@
 # Promptopia
 
+![Home Page](/public/assets/promptopia_nextjs.png)
+
 ## Preview Link : https://promptopia-nextjs-five.vercel.app/
 
 ### Description: A social media platform for sharing AI prompts
